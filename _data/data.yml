@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: HyeonChang Myung
-    tagline: Full Stack Developer
+    tagline: reverse-programming apperntice
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -36,25 +36,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: intermediate
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Japanese
+          level: basic
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
+        - item: Boardgame
           link:
 
         - item: Cooking
+          link:
+
+        - item: Working out
           link:
 
 career-profile:
