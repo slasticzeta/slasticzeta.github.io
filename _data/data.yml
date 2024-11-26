@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: hyeonchang88@gmail.com
     phone: +82 10 4934 7685
-    timezone: Korea/Busan # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Korea/Busan/ # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://slasticzeta/github.io # Include the full website URL, including "http://" or "https://".
     linkedin: 
@@ -69,26 +69,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Computer Engineering
+        university: Pukyong National University
+        time: 2021 - (progressing)
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          I am studying the overall contents of computer science,
+          focusing on growing my practical implementation skills in areas
+          such as computer architecture, data structures, and various programming languages
+          like C, Java, and Python.
             - Bullet point
             - Bullet point
 
